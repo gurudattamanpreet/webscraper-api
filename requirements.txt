@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-httpx
-beautifulsoup4
-pandas
-pydantic
-lxml
-python-multipart
